@@ -95,3 +95,6 @@ Install a cover over the Z motor mount opening with (2) M3x6 BHCS.
 Install the cable raceway with (2) M3x8 BHCS.  Route wires within channel and secure with zip ties.
 ![cable raceway zipties](cable-raceway-zipties.jpg)
 ![wires managed](wire-management.jpg)
+
+My [printer.cfg](printer.cfg).  Make sure you [tune for sensorless xy homing](https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html)
+
