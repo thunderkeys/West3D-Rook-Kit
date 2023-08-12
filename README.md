@@ -4,6 +4,8 @@ Start based on Rook MK1 official build guide located (this guide is based as of 
 
 Download the West3D specific STLs from [Printables](https://www.printables.com/model/527671-west3d-rook-kit-supplemental-and-recommended-files).
 
+Hardware/fastener differences for first beta kit can be found [here](https://docs.google.com/spreadsheets/d/1AoWmQpuaMPSvE4AcOIU-bLFHbUhuz8i3ynFlrqD2oZg/edit?usp=sharing)
+
 **Page 20:** Use the West3D [Bottom Frame](https://www.printables.com/model/527671-west3d-rook-kit-supplemental-and-recommended-files/files#preview:file-Qj8dy).  Install 14 M3 heatset inserts (4 on the left, 4 on the right, 4 on the rear, 1 on the inside of the frame, and 1 on the top).
 
 ![](images/bottom-frame-heatsets.jpg)
