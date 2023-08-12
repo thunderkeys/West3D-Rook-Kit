@@ -76,7 +76,7 @@ For the BMG extruder, make sure your gear orientation has the grub screw towards
 Ensure the 17 tooth gear aligns with the 50 tooth gear. 
 ![gear alignment](images/extruder-gear-alignment.jpg)
 
-Orient the extruder and stepper motor as shown below.
+Orient the extruder and stepper motor as shown below. Attach extruder to stepper using 3 M3x40 BHCS.
 ![extruder orientation](images/extruder-orientation.jpg)
 
 Mount the extruder assembly to the top frame using M3x8 BHCS.
@@ -84,7 +84,7 @@ Mount the extruder assembly to the top frame using M3x8 BHCS.
 
 Connect the extruder to the hotend with 4mm OD/2mm ID bowden tube.
 
-If using the spool holder mount, install it now and secure with M3x25 BHCS. To install over the rod, rotate horizontally, place over the rod in the middle then rotate vertically.
+If using the spool holder mount, install it now and secure with M5x25 BHCS. To install over the rod, rotate horizontally, place over the rod in the middle then rotate vertically.
 ![spool holder mount](images/spool-holder-mount.jpg)
 
 ![spool holder installed](images/spool-holder.jpg)
