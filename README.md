@@ -1,5 +1,7 @@
 # West3D Rook Build Guide (by thunderkeys)
 
+Build guide for [West3D Rook Kit](https://west3d.com/products/west3ds-rook-3d-printer-configurator-mk1)
+
 Start based on Rook MK1 official build guide located (this guide is based as of 2023-08-10).   [here](https://drive.google.com/file/d/1Nc4iz1Pq0eWxs1gyqM3IEtTrQ-v9zu7r/view).  Differences or addendums to the manual as relates to the base West3D beta kit are below.
 
 Download the West3D specific STLs from [Printables](https://www.printables.com/model/527671-west3d-rook-kit-supplemental-and-recommended-files).
